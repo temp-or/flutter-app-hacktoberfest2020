@@ -1,6 +1,7 @@
 ##Contributer Information
 
--[Your name][Your git profile url]
+-[Shoaib Ahmed](https://github.com/Shobu95) | [Bahria University - Karachi Campus](https://www.bahria.edu.pk/bukc/)
+- I'm a Software Developer and i work on Android, Angular and Flutter. I also like writting articles and making youtube tutorials.
 
 
 
